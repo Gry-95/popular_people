@@ -1,0 +1,66 @@
+[
+  {
+    "model": "women.tagpost",
+    "pk": 1,
+    "fields": {
+      "tag": "Высокие",
+      "slug": "vysokie"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 2,
+    "fields": {
+      "tag": "Низкие",
+      "slug": "nizkie"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 3,
+    "fields": {
+      "tag": "Блондинки",
+      "slug": "blondinki"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 4,
+    "fields": {
+      "tag": "Брюнетки",
+      "slug": "bryunetki"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 5,
+    "fields": {
+      "tag": "Оскар",
+      "slug": "oskar"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 6,
+    "fields": {
+      "tag": "Олимпиада",
+      "slug": "olimpiada"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 7,
+    "fields": {
+      "tag": "Грэмми",
+      "slug": "gremmi"
+    }
+  },
+  {
+    "model": "women.tagpost",
+    "pk": 8,
+    "fields": {
+      "tag": "Рыжие",
+      "slug": "ryzhie"
+    }
+  }
+]
